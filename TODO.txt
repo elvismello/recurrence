@@ -1,0 +1,4 @@
+n2test.jl
+    -> Calculate max(entropy) to find the best epsilon;
+    -> Get results from analysing total_gamma as the articles does.[
+    -> Try different initial conditions for DS.Systems.betatransformationmap
